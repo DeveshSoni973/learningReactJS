@@ -1,9 +1,9 @@
-
+import Nemo from "./nemo";
 function App() {
   
 
   return (
-    <h1>Dev Bhai OP</h1>
+    <Nemo/>
     )
 }
 
