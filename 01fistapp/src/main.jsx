@@ -43,6 +43,7 @@ createRoot(document.getElementById('root')).render(
 
     // ReactElement
     // AnotherElement
-    ReactElement
+    // ReactElement
+    <App/>
   // </StrictMode>,
 )
